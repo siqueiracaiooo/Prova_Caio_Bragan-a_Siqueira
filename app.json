@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "RPG_Imperial",
+    "slug": "RPG_Imperial",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/imperio.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": ""
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/imperio.png",
+        "backgroundColor": ""
+      }
+    },
+    "web": {
+      "imperio": "./assets/imperio.png"
+    }
+  }
+}
